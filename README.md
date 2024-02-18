@@ -33,3 +33,23 @@ Learning about the Large Langauge Models (LLMs) and their evolution starts with 
     * Interdisciplinary Applications
     * Open problems and Challenges
 
+##
+                                                    Virtual Environment
+##
+
+
+### Creating a virtual environment (in Windows)
+
+Run the following command in the terminal to create a virtual environment in the current directory.
+
+    py -3 -m venv venv
+    .\venv\Scripts\activate.bat
+
+Following are the most popular python packages for the NLP.
+
+* NLTK
+* spaCy
+* Transformers
+* Gensim
+* TextBlob
+  
